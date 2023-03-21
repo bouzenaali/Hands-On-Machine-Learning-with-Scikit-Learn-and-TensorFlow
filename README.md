@@ -1,2 +1,3 @@
 # Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow
-you can find my notes of the book  
+###...I'll be uploading all my notes of the book here 
+
