@@ -1,7 +1,6 @@
+<h1 align="center">Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow</h1>
 
-# Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow
-
-...I'll be uploading all my notes of the book here 
+<p align="center">...I'll be uploading all my notes of the book here📝</p>
 
 ## table of content
 
